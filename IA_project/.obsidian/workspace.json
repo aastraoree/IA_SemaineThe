@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "450e02bfeba3fe72",
+            "id": "64758119ad7ffe7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainstorm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1a557f2cf930cee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Succession.md",
+                "file": "idées3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Succession.md",
+                "file": "idées3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Succession.md",
+                "file": "idées3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Succession.md"
+                "file": "idées3.md"
               }
             }
           }
@@ -159,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1a557f2cf930cee",
+  "active": "64758119ad7ffe7f",
   "lastOpenFiles": [
-    "Brainstorm.md",
-    "Succession.md",
+    "idée2 (Succession).md",
+    "idées3.md",
+    "idée1 Brainstorm.md",
+    "Untitled.canvas",
     "Welcome.md"
   ]
 }

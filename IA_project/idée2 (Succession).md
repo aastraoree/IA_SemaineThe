@@ -1,10 +1,10 @@
 ### Matériels : 
-	Cartes : 
-		Rôles
-		Objectifs
-	Jetons : 
-		Argent
-		
+Cartes : 
+- Rôles
+- Objectifs
+Jetons : 
+- Argent
+
 ### Prompt : 
 tu es un game designer et il faut m'aider à créer les règles d'un jeu de bluff dans lequel il y a un roi qui aurait un jeu différent de tous les autres joueurs et qui aura la possibilité de prendre de grosse décisions comme enfermer des gens, les autres joueurs auront des rôles qu'il faut que tu m'aides à créer et qui auront des objectifs aléatoires, qui peuvent être par exemple "tuer le roi" ou autre.
 tous les joueurs gagneront de l'argent chaque tour en fonction de leur rôles 
